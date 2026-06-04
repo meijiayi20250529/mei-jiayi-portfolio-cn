@@ -974,6 +974,7 @@ body.case-open .case-drawer::before {
   margin: 0 0 10px;
   font-size: clamp(38px, 5vw, 76px);
   line-height: 0.9;
+  white-space: nowrap;
 }
 
 .contact-actions {
