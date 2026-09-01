@@ -155,12 +155,12 @@ const cases = {
     impact:
       "获奖创业/竞赛项目展示了服务设计思维、适老化交互、终端 UI 逻辑和医疗场景可视化能力。",
     gallery: [
-      ["assets/site/student-work/medical-screen/page-25.jpg", "项目介绍"],
-      ["assets/site/student-work/medical-screen/page-26.jpg", "背景调研"],
-      ["assets/site/student-work/medical-screen/page-29.jpg", "用户旅程"],
-      ["assets/site/student-work/medical-screen/page-30.jpg", "低保真流程"],
-      ["assets/site/student-work/medical-screen/page-31.jpg", "高保真 UI"],
-      ["assets/site/student-work/medical-screen/page-32.jpg", "交互动演示页"]
+      ["assets/site/student-work/medical-screen/page-25.jpg", "背景调研"],
+      ["assets/site/student-work/medical-screen/page-26.jpg", "用户调研"],
+      ["assets/site/student-work/medical-screen/page-29.jpg", "小组访谈、用户画像"],
+      ["assets/site/student-work/medical-screen/page-30.jpg", "用户旅程图"],
+      ["assets/site/student-work/medical-screen/page-31.jpg", "流程图"],
+      ["assets/site/student-work/medical-screen/page-32.jpg", "高保真演示页"]
     ]
   },
   "digital-dashboard": {
